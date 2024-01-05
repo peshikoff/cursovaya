@@ -15,8 +15,9 @@ API: Выбрано ASP.NET Core 6 + Entity Framework 6 Core. EF6 Core выбр�
 
 Где найти файлы:
 
-Код API - raspisanie-ngieu.api - https://gitfront.io/r/peshikoff/aRBUftXfE1ua/raspisanie-ngieu.api/
+Код API - raspisanie-ngieu.api - https://github.com/peshikoff/raspisanie-ngieu.api
 
-Код приложения - raspisanie-ngieu.app - https://gitfront.io/r/peshikoff/ZPZoZE1wcgaY/raspisanie-ngieu.app/
+
+Код приложения - raspisanie-ngieu.app - https://github.com/peshikoff/raspisanie-ngieu.app
 
 Скрипт создания БД, текст курсовой находятся внутри репозитория
